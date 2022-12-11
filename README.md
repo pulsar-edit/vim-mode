@@ -1,3 +1,5 @@
+# This repository is archived under Pulsar-Edit since it was Deprecated in favor of [vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus)
+
 ## Vim Mode package [![Build Status](https://travis-ci.org/atom/vim-mode.svg?branch=master)](https://travis-ci.org/atom/vim-mode)
 
 Provides Vim modal control for Atom, blending the best of Vim and Atom.
